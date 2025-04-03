@@ -1,3 +1,6 @@
 rojo
 verde
 amarillo
+naranja
+rosa
+lila
