@@ -4,3 +4,7 @@ amarillo
 naranja
 rosa
 lila
+turquesa
+aguamarina
+aureo
+argento
